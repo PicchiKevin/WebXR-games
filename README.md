@@ -12,6 +12,7 @@ And if you scroll a bit you'll find some other *cool* WebXR Experiences.
 - [Konterball](https://github.com/madebywild/konterball) - Konterball is a single or 2-player virtual reality game, built for the web as a Google VR Chrome Experiment. 
 - [Spot the bot](https://github.com/hookerz/spot-the-bot) - A cooperative WebVR game "Spot as many bots as you can"
 - [SpaceRocks](https://github.com/moar-tech/spacerocks) - Escape through space on stolen plasma engines while slinging photon bolts at deadly asteroids.
+- [Plockle](https://plockle.com) - A challenging block puzzle game with hand tracking!
 
 ### Multiplayer games:
 - [VRBlocks](https://vrblocks.gatunes.com/) - A tranquil multiplayer Minecraft-like sandbox. The sequel to Walking Simulator.
