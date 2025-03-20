@@ -18,6 +18,7 @@ And if you scroll a bit you'll find some other *cool* WebXR Experiences.
 - [VRBlocks](https://vrblocks.gatunes.com/) - A tranquil multiplayer Minecraft-like sandbox. The sequel to Walking Simulator.
 
 ### Games : 
+- [NeoFables](https://neofables.com/) - Create your own worlds in the first dynamically AI generated VR storytelling experience. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards. Also first GenAI VR experience featured by Meta.
 - [Barista Express](https://constructarca.de/construct-arcade/game/barista-express/game/) - Virtually be a barista in your own cafe.
 - [Soundboxing Beta](https://webvr.soundboxing.co/) - A VR music kickboxing game with beats created by people. If you feel the urge to dance, you're doing it right!
 - [Gunters of OASIS](https://supermedium.com/gunters-of-oasis-deploy/) - Hundreds of generated worlds, among one lies a golden egg. First gunters to find it inherit half a hundred dollars and the OASIS.
