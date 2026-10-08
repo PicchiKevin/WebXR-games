@@ -13,6 +13,7 @@ And if you scroll a bit you'll find some other *cool* WebXR Experiences.
 - [Spot the bot](https://github.com/hookerz/spot-the-bot) - A cooperative WebVR game "Spot as many bots as you can"
 - [SpaceRocks](https://github.com/moar-tech/spacerocks) - Escape through space on stolen plasma engines while slinging photon bolts at deadly asteroids.
 - [Plockle](https://plockle.com) - A challenging block puzzle game with hand tracking!
+- [Tidal Loom](https://waytzhang.github.io/tidal-loom/) - A short water-routing puzzle with optional WebXR hand controls. [MIT source](https://github.com/waytzhang/tidal-loom); headset play is not yet tested.
 
 ### Multiplayer games:
 - [VRBlocks](https://vrblocks.gatunes.com/) - A tranquil multiplayer Minecraft-like sandbox. The sequel to Walking Simulator.
